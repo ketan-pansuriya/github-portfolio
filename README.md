@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ketan Pansuriya</h1>
-<h3 align="center">ullStack web Developer with 9+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages like Php, Laravel, CodeIgniter, WordPress, Vue, React JS, javascript, jquery etc. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.</h3>
+<h3 align="center">FullStack web Developer with 9+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages like Php, Laravel, CodeIgniter, WordPress, Vue, React JS, javascript, jquery etc. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketan-pansuriya&label=Profile%20views&color=0e75b6&style=flat" alt="ketan-pansuriya" /> </p>
 
